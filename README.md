@@ -1,6 +1,7 @@
 # pygoat
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneatsun%2Fpygoat.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneatsun%2Fpygoat?ref=badge_shield)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 intentionally vuln web Application Security in django.
@@ -84,3 +85,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fneatsun%2Fpygoat.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fneatsun%2Fpygoat?ref=badge_large)
